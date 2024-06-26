@@ -1,6 +1,6 @@
 # dighum101-covid19-hashtag-sentiment-analysis
 
-![sentiment-analysis-cover-image](assets/sentiment-analysis.png)
+![sentiment-analysis-cover-image](assets/sentiment-analysis.jpg)
 
 ## Abstract
 
