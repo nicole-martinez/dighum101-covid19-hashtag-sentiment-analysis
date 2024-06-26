@@ -1,6 +1,6 @@
 # dighum101-covid19-hashtag-sentiment-analysis
 
-insert header image here
+![sentiment-analysis-cover-image](assets/sentiment-analysis.png)
 
 ## Abstract
 
